@@ -51,6 +51,3 @@ Software for Industry , where they can track the attendence of their employee wi
 ## License
 - Include information about the project's license.
 
-# MPR
-# MPR
-# MPR
